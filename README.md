@@ -38,4 +38,4 @@
 * 前端交互基础设施的建设
 * 前端代码单元测试怎么做？
 * 前端架构中，每个逻辑页面如何可以做到独立发布呢？
-* 
+* [一个前端工程师到底需要掌握哪些技能？](https://github.com/miracle90/re-learning-fe/blob/main/docs/509.md)
